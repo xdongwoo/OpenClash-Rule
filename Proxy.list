@@ -1,6 +1,6 @@
 # 该文件用于自定义代理转发的域名或CIDR地址
 
-#Github
+# Github
 DOMAIN,github.com
 DOMAIN,raw.githubusercontent.com
 
