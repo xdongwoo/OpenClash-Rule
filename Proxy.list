@@ -15,3 +15,6 @@ DOMAIN-SUFFIX,playbattlegrounds.com
 
 # 博客博主
 DOMAIN-SUFFIX,qichiyu.com
+
+# Docker镜像下载
+DOMAIN-SUFFIX,docker.io
