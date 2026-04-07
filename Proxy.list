@@ -17,4 +17,4 @@ DOMAIN-SUFFIX,playbattlegrounds.com
 DOMAIN-SUFFIX,qichiyu.com
 
 # Docker镜像下载
-DOMAIN-SUFFIX,docker.io
+#DOMAIN-SUFFIX,docker.io
