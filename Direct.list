@@ -1,4 +1,13 @@
-# 该文件用于自定义直连转发的域名或CIDR地址
-
 # Cloudflare API and Dash
 DOMAIN-SUFFIX,cloudflare.com
+# Google Play
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+# 
+DOMAIN-SUFFIX,www.duckdns.org
+DOMAIN-SUFFIX,mikrotik.com
+DOMAIN-SUFFIX,mynetname.net
+DOMAIN-SUFFIX,routerboard.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
+DOMAIN-SUFFIX,registry-1.docker.io
+DOMAIN-SUFFIX,mt.lv
