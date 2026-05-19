@@ -3,7 +3,7 @@ DOMAIN-SUFFIX,cloudflare.com
 # Google Play
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-# 
+# Network Resource
 DOMAIN-SUFFIX,www.duckdns.org
 DOMAIN-SUFFIX,mikrotik.com
 DOMAIN-SUFFIX,mynetname.net
@@ -11,3 +11,5 @@ DOMAIN-SUFFIX,routerboard.com
 DOMAIN-SUFFIX,raw.githubusercontent.com
 DOMAIN-SUFFIX,registry-1.docker.io
 DOMAIN-SUFFIX,mt.lv
+# Blizarrd Battle.net
+DOMAIN-SUFFIX,battle.net
