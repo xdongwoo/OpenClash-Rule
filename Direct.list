@@ -1,7 +1,7 @@
 # Cloudflare API and Dash
 DOMAIN-SUFFIX,cloudflare.com
 # Google Play
-DOMAIN-SUFFIX,services.googleapis.cn
+#DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 # Network Resource
 DOMAIN-SUFFIX,www.duckdns.org
