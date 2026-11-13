@@ -1,8 +1,10 @@
 # Cloudflare API and Dash
 DOMAIN-SUFFIX,cloudflare.com
+
 # Google Play
-#DOMAIN-SUFFIX,services.googleapis.cn
-#DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+
 # Network Resource
 DOMAIN-SUFFIX,www.duckdns.org
 DOMAIN-SUFFIX,mikrotik.com
@@ -11,5 +13,6 @@ DOMAIN-SUFFIX,routerboard.com
 DOMAIN-SUFFIX,raw.githubusercontent.com
 DOMAIN-SUFFIX,registry-1.docker.io
 DOMAIN-SUFFIX,mt.lv
+
 # Blizzard Battle.net
 DOMAIN-SUFFIX,battle.net
