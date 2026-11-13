@@ -10,9 +10,11 @@ DOMAIN-SUFFIX,www.duckdns.org
 DOMAIN-SUFFIX,mikrotik.com
 DOMAIN-SUFFIX,mynetname.net
 DOMAIN-SUFFIX,routerboard.com
+DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,raw.githubusercontent.com
-DOMAIN-SUFFIX,registry-1.docker.io
+DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,mt.lv
+DOMAIN-SUFFIX,ollama.ai
 
 # Blizzard Battle.net
 DOMAIN-SUFFIX,battle.net
