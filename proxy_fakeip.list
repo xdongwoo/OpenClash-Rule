@@ -6,3 +6,6 @@ DOMAIN-SUFFIX,onrender.com
 
 # 博客博主
 DOMAIN-SUFFIX,qichiyu.com
+
+# Google Play
+DOMAIN-SUFFIX,services.googleapis.cn
